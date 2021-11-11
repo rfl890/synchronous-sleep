@@ -1,6 +1,6 @@
 {
   "name": "synchronous-sleep",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Synchronous sleep in Node.js",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rfl890/synchronous-sleep/issues"
   },
-  "homepage": "https://github.com/rfl890/synchronous-sleep#readme"
+  "homepage": "https://github.com/rfl890/synchronous-sleep#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
